@@ -1,4 +1,4 @@
-# RESCORM
+# React Scorm boilerplate
 
 RESCORM is a boilerplate for creating SCORM-compliant React applications.
 
